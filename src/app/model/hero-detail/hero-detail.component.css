@@ -1,0 +1,10 @@
+.wrapHeroDetail{
+    display: inline-block;
+   
+    border: 3px solid #333;
+    padding: 20px;
+    margin-top: 1%;
+    position: absolute;
+    margin-left: 50px;
+    
+}

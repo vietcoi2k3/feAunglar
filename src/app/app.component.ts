@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'abc';
+  isHidden= false;
+  hide():void{
+    this.isHidden=true
+  }
 }
